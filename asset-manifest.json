@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/cellpoint/static/css/main.31d6cfe0.css",
-    "main.js": "/cellpoint/static/js/main.36fab2a6.js",
+    "main.js": "/cellpoint/static/js/main.28f3e52e.js",
     "index.html": "/cellpoint/index.html",
-    "main.36fab2a6.js.map": "/cellpoint/static/js/main.36fab2a6.js.map"
+    "main.28f3e52e.js.map": "/cellpoint/static/js/main.28f3e52e.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.36fab2a6.js"
+    "static/js/main.28f3e52e.js"
   ]
 }
